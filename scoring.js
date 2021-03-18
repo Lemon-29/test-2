@@ -56,6 +56,7 @@ $(document).ready(function(){
 
     return judge;
   };
+  
 
   function judgement(){
     let achievement = get_achievement();
